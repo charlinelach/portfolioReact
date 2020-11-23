@@ -5,9 +5,9 @@
 
 **Created On**: `2020 November 24`
 <br>
-Deployment: https://frozen-refuge-13660.herokuapp.com/
+Deployment: 
 <br>
-Repository: https://github.com/charlinelach/portfolioReact
+Repository: 
 
 ## Table of Contents
 * [Usage](#usage)
