@@ -1,9 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 # Charline's Portfolio
-The purpose of this yearbook is to provide an employee directory in a digital manner. Users can view search upon, and sort through employees.
+<!-- The purpose of this yearbook is to provide an employee directory in a digital manner. Users can view search upon, and sort through employees.
 
-**Created On**: `2020 November 4`
+**Created On**: `2020 November 24`
 <br>
 Deployment: https://frozen-refuge-13660.herokuapp.com/
 <br>
@@ -36,7 +36,7 @@ For local testing:
 ```
 npm start
 localhost:3000
-```
+``` -->
 
 # License
 MIT License Copyright © 2020
