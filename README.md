@@ -1,4 +1,47 @@
-# Getting Started with Create React App
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
+# Charline's Portfolio
+The purpose of this yearbook is to provide an employee directory in a digital manner. Users can view search upon, and sort through employees.
+
+**Created On**: `2020 November 4`
+<br>
+Deployment: https://frozen-refuge-13660.herokuapp.com/
+<br>
+Repository: https://github.com/charlinelach/portfolioReact
+
+## Table of Contents
+* [Usage](#usage)
+* [Installation](#installation)
+* [Credits & Thank You](#credits)
+* [Testing & Errors](#testing)
+* [License](#license)
+
+# Development
+
+## Usage Instructions
+To utilize the application, the user would access the application via [Heroku](https://frozen-refuge-13660.herokuapp.com/) link.
+<br>
+The app will provide "random" employees with the API and allow the user to search/filter or sort the list.
+
+![GIF](yearbookGIF.gif)
+
+## Installation
+N/A
+
+## Credits
+Shout out to the wonderful instructor, TAs, and classmates (especially in office hours)!
+
+## Testing
+For local testing:
+```
+npm start
+localhost:3000
+```
+
+# License
+MIT License Copyright © 2020
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +110,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
