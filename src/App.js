@@ -1,24 +1,27 @@
 // import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Route } from "react-router-dom"; // idk if needed
-
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Project from "./pages/Project";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
-import { About, Contact, Project } from './pages';
 
 function App() {
   return (
-    <div className="App">
-      <Navbar />
-      <Wrapper>
-        <Route exact path="/" component={About} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/project" component={Project} />
-        <Route exact path="/contact" component={Contact} />
-      </Wrapper>
-      <Footer />
-    </div>
+    <Router>
+      <div className="App">
+        <Navbar />
+        <Wrapper>
+          <Route exact path="/" component={About} />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/project" component={Project} />
+          <Route exact path="/contact" component={Contact} />
+        </Wrapper>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 

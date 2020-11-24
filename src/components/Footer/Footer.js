@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Footer(props) {
+function Footer() {
     return (
         <footer class="footer">
             <div id="footerDiv" class="navbar fixed-bottom text-center">
