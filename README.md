@@ -5,7 +5,7 @@ The purpose of this project is to practice React and implementing its usage towa
 
 **Created On**: `2020 November 24`
 <br>
-Deployment: https://charlinelach.github.io/portfolioReact
+Deployment: https://immense-waters-47791.herokuapp.com/
 <br>
 Repository: https://github.com/charlinelach/portfolioReact
 
