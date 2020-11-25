@@ -1,13 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 # Charline's Portfolio
-The purpose of this yearbook is to provide an employee directory in a digital manner. Users can view search upon, and sort through employees.
+The purpose of this project is to practice React and implementing its usage towards a pre-existing portfolio.
 
 **Created On**: `2020 November 24`
 <br>
-Deployment: 
+Deployment: https://charlinelach.github.io/portfolioReact
 <br>
-Repository: 
+Repository: https://github.com/charlinelach/portfolioReact
 
 ## Table of Contents
 * [Usage](#usage)
@@ -19,7 +19,7 @@ Repository:
 # Development
 
 ## Usage Instructions
-To utilize the application, the user would access the application via [Heroku](https://frozen-refuge-13660.herokuapp.com/) link.
+To utilize the application, the user would access the application via [deployment](https://charlinelach.github.io/portfolioReact/) link.
 
 ![GIF](./src/gif.gif)
 
