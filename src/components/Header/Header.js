@@ -33,12 +33,6 @@ function Header(props) {
                             <input type="text" class="form-control" id="exampleInputMsg" placeholder="Message" />
                         </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
-                        <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                            <strong>Well done!</strong> You sent a message.
-                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
                     </form>
                 </Col>
                 <Col>
