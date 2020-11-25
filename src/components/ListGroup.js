@@ -1,8 +1,8 @@
 import React from "react";
-import Container from "../components/Container";
-import Card from "../components/Card";
-import Row from "../components/Row";
-import Col from "../components/Col";
+// import Container from "../components/Container";
+// import Card from "../Card/";
+// import Row from "../Row";
+import Col from "../Col";
 
 function ListGroup(props) {
     return (

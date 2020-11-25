@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.css";
-import Container from "../components/Container";
-import Row from "../components/Row";
-import Col from "../components/Col";
+import Container from "../Container";
+import Row from "../Row";
+import Col from "../Col";
 
 
 function Header(props) {
@@ -53,7 +53,6 @@ function Header(props) {
                             target="_blank">Resume</a>
                         <a href="mailto:notmyemail@emailaddress.com"
                             class="list-group-item list-group-item-action list-group-item-success">Email Me</a>
-
                     </div>
 
                 </Col>

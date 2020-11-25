@@ -1,11 +1,10 @@
-// import logo from './logo.svg';
 import './App.css';
-import { BrowserRouter as Router, Route } from "react-router-dom"; // idk if needed
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Project from "./pages/Project";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+// import Project from "./pages/Project";
+import Navbar from "./components/Navbar/Navbar";
+import Footer from "./components/Footer/Footer";
 import Wrapper from "./components/Wrapper";
 
 function App() {
@@ -14,10 +13,10 @@ function App() {
       <div className="App">
         <Navbar />
         <Wrapper>
-          <Route exact path="/" component={About} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/project" component={Project} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/" component={About} style="background-color: #DAAD86" />
+          <Route exact path="/about" component={About} style="background-color: #DAAD86" />
+          {/* <Route exact path="/project" component={Project} style="background-color: #B1A296" /> */}
+          <Route exact path="/contact" component={Contact} style="background-color: #7395AE" />
         </Wrapper>
         <Footer />
       </div>
@@ -26,19 +25,3 @@ function App() {
 }
 
 export default App;
-
-
-// {/* <header className="App-header">
-//   <img src={logo} className="App-logo" alt="logo" />
-//   <p>
-//     Edit <code>src/App.js</code> and save to reload.
-// </p>
-//   <a
-//     className="App-link"
-//     href="https://reactjs.org"
-//     target="_blank"
-//     rel="noopener noreferrer"
-//   >
-//     Learn React
-// </a>
-// </header> */}
