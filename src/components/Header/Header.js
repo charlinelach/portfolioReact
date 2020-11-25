@@ -43,12 +43,11 @@ function Header(props) {
                             target="_blank">GitHub</a>
                         <a href="https://www.linkedin.com/in/charlinelach/"
                             class="list-group-item list-group-item-action list-group-item-primary" target="_blank">LinkedIn</a>
-                        <a href="Charline Lach Resume_bootCamp.pdf" class="list-group-item list-group-item-action list-group-item-secondary"
+                        <a href="https://drive.google.com/file/d/1mJ-AMPUf6BBGoZhbZ-QKwE61h6keoMDJ/view?usp=sharing" class="list-group-item list-group-item-action list-group-item-secondary"
                             target="_blank">Resume</a>
                         <a href="mailto:notmyemail@emailaddress.com"
                             class="list-group-item list-group-item-action list-group-item-success">Email Me</a>
                     </div>
-
                 </Col>
             </Row>
         </Container>
