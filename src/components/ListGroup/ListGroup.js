@@ -7,6 +7,7 @@ function ListGroup(props) {
         <div>
             <div class="list-group" id="list-tab" role="tablist">
                 <a class="list-group-item list-group-item-action active" id="list-readme-list" data-toggle="list" href="#list-readme" role="tab" aria-controls="readme">README.md Generator</a>
+    {/* <a class="list-group-item list-group-item-action active" data-toggle="list" href="#list-{project.aria-controls}" role="tab" aria-controls="{project.aria-controls}">{"project.name"}</a> */}
                 <a class="list-group-item list-group-item-action" id="list-portfolio-list" data-toggle="list" href="#list-portfolio" role="tab" aria-controls="portfolio">Responsive Portfolio (HTML/CSS)</a>
                 <a class="list-group-item list-group-item-action" id="list-yogaPlan-list" data-toggle="list" href="#list-yogaPlan" role="tab" aria-controls="yogaPlan">Workout Tracker</a>
                 <a class="list-group-item list-group-item-action" id="list-pw-list" data-toggle="list" href="#list-pw" role="tab" aria-controls="pw">Password Generator</a>

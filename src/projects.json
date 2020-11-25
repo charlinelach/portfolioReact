@@ -1,0 +1,50 @@
+[
+    {
+        "name": "README.md Generator",
+        "aria-controls": "readme",
+        "image": "../images/screenshotREADME.gif",
+        "alt": "GIF of README app use",
+        "deploy": "N/A - internal app",
+        "repo": "https://github.com/charlinelach/readMeGenerator"
+    },
+    {
+        "name": "Responsive Portfolio (HTML/CSS)",
+        "aria-controls": "portfolio",
+        "image": "../images/portfolioScreenshot.png",
+        "alt": "About Me Screenshot",
+        "deploy": "UPDATE",
+        "repo": "https://github.com/charlinelach/portfolioReact"
+    },
+    {
+        "name": "Workout Tracker",
+        "aria-controls": "yogaPlan",
+        "image": "../images/cardio.png",
+        "alt": "Cardio Screenshot",
+        "deploy": "https://pure-earth-56296.herokuapp.com/",
+        "repo": "https://github.com/charlinelach/yogaPlan"
+    },
+    {
+        "name": "Password Generator",
+        "aria-controls": "pw",
+        "image": "../images/pw.gif",
+        "alt": "PW Generator GIF",
+        "deploy": "https://charlinelach.github.io/pwGenerator/",
+        "repo": "https://github.com/charlinelach/pwGenerator"
+    },
+    {
+        "name": "Budget Tracker (Group Project)",
+        "aria-controls": "btProject",
+        "image": "../images/budgetGIF.gif",
+        "alt": "Budget Tracker GIF",
+        "deploy": "https://budget-hero.herokuapp.com/",
+        "repo": "https://github.com/ShueMoua/Budget_Tracker"
+    },
+    {
+        "name": "NovelFilms (Group Project)",
+        "aria-controls": "novelfilms",
+        "image": "../images/goosebumpsScreenshot.jpg",
+        "alt": "NovelFilms Screenshot",
+        "deploy": "https://cete4.github.io/NovelFilms/",
+        "repo": "https://github.com/Cete4/NovelFilms"
+    }
+]
